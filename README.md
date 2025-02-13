@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e92515ff-ab5e-404a-8c45-f9e8c3eda8ca)# deteccion-armas
+# deteccion-armas
 Se realizará un sistema de escritorio donde a través de la cámara del dispositivo, detecte armas de fuego y envie una alerta al dispositivo, con la imagen correspondiente.
 
 # Metodología de Desarrollo: Espiral
@@ -47,3 +47,4 @@ La metodología espiral es un proceso de desarrollo de software en el cual se ab
 - **Dificultad para proyectos pequeños**: No es recomendable para proyectos pequeños debido a su enfoque detallado y constante retroalimentación, lo cual puede resultar innecesario.
 
 ![Diagrama]([https://example.com/ruta/a/mi_imagen.png](https://www.lifeder.com/wp-content/uploads/2020/02/Analisis-1.jpg))
+![image](https://github.com/user-attachments/assets/e92515ff-ab5e-404a-8c45-f9e8c3eda8ca)
